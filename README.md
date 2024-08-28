@@ -21,7 +21,7 @@ Este es un proyecto simple de encriptador de texto desarrollado con HTML, CSS y 
 
 - **Tecnologías Utilizadas**
 
--Tecnologías Utilizadas**
+-**Tecnologías Utilizadas**
   - HTML5
   - CSS
   - JavaScript
